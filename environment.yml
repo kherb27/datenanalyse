@@ -1,0 +1,9 @@
+name: datenanalyse
+
+dependencies:
+  - python=3.7
+  - numpy
+  - matplotlib
+  - pandas
+  - ipywidgets
+  - lmfit
